@@ -1,5 +1,8 @@
 name    'ghoneycutt-centos'
-version '0.0.1'
+version '1.0.0'
 
-## Add dependencies, if any:
-# dependency 'username/name', '>= 1.2.0'
+dependency 'ghoneycutt/ntp', '>= 1.0.0'
+dependency 'ghoneycutt/pam', '>= 1.0.0'
+dependency 'ghoneycutt/rpm', '>= 1.0.0'
+dependency 'ghoneycutt/sysctl', '>= 1.0.0'
+dependency 'ghoneycutt/yum', '>= 1.0.0'

@@ -1,3 +1,5 @@
 centos
 
-This is the centos module.
+Released 20100701 - Garrett Honeycutt - GPLv2
+
+Manage CentOS specific items, called as 'include $operatingsystem' from generic module
